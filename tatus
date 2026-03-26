@@ -1,0 +1,24 @@
+[33m2380742[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfooter-styling[m[33m, [m[1;31morigin/footer-styling[m[33m)[m Styled footer to match responsive design
+[33mf705236[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #14 from MaryChioma/feature/contact-form-submit
+[33m409b495[m feat: add ContactForm submission and success message
+[33meac4b8e[m Merge pull request #13 from Chiefpriest123/feature/contact-form
+[33m85e9985[m feat: complete ContactForm structure and validation
+[33m18e2870[m Merge pull request #12 from Yungmora/feature/footer
+[33mf064712[m feat: complete Footer component
+[33m15ad7da[m Merge pull request #11 from Ehibliss/feature/data-table-styles
+[33m4088795[m feat: complete DataTable styling and responsive layout
+[33mb9a8287[m Merge pull request #7 from achiever891-ux/feature/data-table
+[33m9e0776b[m feat: complete DataTable structure
+[33m7aa5193[m Merge pull request #6 from Aruma527/feature/planet-card
+[33mb233883[m feat: complete PlanetCard component
+[33meab72be[m Merge pull request #5 from Toyin-dev/feature/video-section
+[33m63be752[m feat: complete VideoSection component
+[33mb82eb35[m Merge pull request #4 from Dextervade-sys/feature/hero
+[33mb95e833[m feat: complete Hero component
+[33m234a213[m Merge pull request #3 from mac-dubem/feature/header
+[33m6716b4d[m feat: complete header component
+[33m32ce04c[m[33m ([m[1;32mhero-section[m[33m)[m Merge pull request #2 from Samerx1/my-feature
+[33me01d4e6[m[33m ([m[1;31morigin/my-feature[m[33m, [m[1;32mmy-feature[m[33m)[m Updated README file
+[33m9fc167e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m init: setup environment
+[33m665cc57[m Updated project description
+[33m6bfd4f5[m Initial commit
